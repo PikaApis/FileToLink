@@ -17,7 +17,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     rm = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton("✨ Update Channel", url="https://t.me/vj_botz")
+            InlineKeyboardButton("✨ Developer 🔹", url="https://t.me/pikachufrombd")
         ]] 
     )
     await client.send_message(
