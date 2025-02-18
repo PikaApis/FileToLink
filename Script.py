@@ -1,23 +1,29 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
+# Don't Remove Credit @pikachufrombd
+# Ask Doubt on telegram @pikachufrombd
 
 class script(object):
-    START_TXT = """<b>Hello {} 👋, My Name Is <a href=https://t.me/{}>{}</a>
+    START_TXT = """<b>👋 𝗛𝗲𝗹𝗹𝗼 {}!</b>
     
-✏️ I Am A Advance File Stream Bot With Multiple Player Support And Url Shortner. Best Ui Performance.
+<b>✨ 𝗜'𝗺 <a href='https://t.me/{}'>{}</a>, 𝗮𝗻 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗙𝗶𝗹𝗲 𝗦𝘁𝗿𝗲𝗮𝗺 𝗕𝗼𝘁! ✨</b>
 
-Now Send Me A Media To See Magic ✨</b>"""
+🚀 <i>Experience the best UI performance with multiple player support and built-in URL shortener.</i>
 
-    LOG_TEXT_P = """#NewUser
-ID - <code>{}</code>
-Nᴀᴍᴇ - {}"""
-    
-    RESTART_TXT = """
-<b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+🔹 <b>𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:</b> <a href='https://t.me/pikachufrombd'>@pikachufrombd</a>
 
-📅 Dᴀᴛᴇ : <code>{}</code>
-⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+🎭 <b>Send me any media & witness the magic unfold! ✨</b>
+"""
+
+    LOG_TEXT_P = """<b>🚀 #𝗡𝗲𝘄𝗨𝘀𝗲𝗿</b>
+
+🆔 <b>ID :</b> <code>{}</code>
+👤 <b>Name :</b> <i>{}</i>
+"""
+
+    RESTART_TXT = """<b>🔄 𝗕𝗼𝘁 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗲𝗱! 🔄</b>
+
+📅 <b>Date :</b> <code>{}</code>  
+⏰ <b>Time :</b> <code>{}</code>  
+🌍 <b>Timezone :</b> <code>Asia/Dhaka</code>  
+
+🛠️ <b>Build Status:</b> <code>🚀 v2.7.1 [ Sᴛᴀʙʟᴇ ]</code>  
+"""
